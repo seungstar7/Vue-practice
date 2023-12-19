@@ -4,7 +4,12 @@
     <router-link to="/about">About</router-link> |
     <router-link to="/databinding">Data Binding</router-link> |
     <router-link to="/databindingStyle">Data Style Binding</router-link> |
-    <router-link to="/databindingObject">Data Object Binding</router-link>
+    <router-link to="/databindingObject">Data Object Binding</router-link> |
+    <router-link to="/databindingAxios">Data Object Axios</router-link> |
+    <router-link to="/nested">Nested component</router-link> |
+    <router-link to="/parentComponent">Parent Component</router-link> |
+    <router-link to="/slotModalLayout">Slot ModalLayout </router-link> |
+    <router-link to="/provideInject">Provide Inject</router-link>
   </nav>
   <router-view/>
 </template>
